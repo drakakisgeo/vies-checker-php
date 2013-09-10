@@ -1,4 +1,4 @@
-Vies-checker-PHP Ver. 1.0
+Vies-checker-PHP
 ================
 VIES Check Europe VAT id [PHP 5.4.*]
 ------------------------------------
